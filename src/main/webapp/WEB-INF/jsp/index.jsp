@@ -11,9 +11,6 @@
 <div class="layout">
     <aside class="sidebar">
         <h2>Files</h2>
-        <div class="sidebar-actions">
-            <button id="exportMdBtn">md파일 생성</button>
-        </div>
         <div id="tree" class="tree-wrap"></div>
     </aside>
     <main class="center-pane">
